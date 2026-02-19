@@ -1,2 +1,3 @@
-# mcp-network-sentinel-go
-A network sentinel MCP server written in Go.
+# Network Sentinel MCP Server
+
+A network sentinel MCP server written in Go (or, I`ll try it)
